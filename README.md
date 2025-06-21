@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hrithik Bhardwaj</h1>
 <h3 align="center">Passionate VLSI Engineer</h3>
 
-- 🔭 I’m presently employed at **Astrogate Labs.**
-
-- I am seeking to partner with tech enthusiasts who have a strong interest in **VLSI.**
-
-- 💬 Ask me about **Digital Design and FPGA Design.**
+# 💫 About Me:
+🔭 I’m presently employed at **Astrogate Labs**.<br>I am seeking to partner with tech enthusiasts who have a strong interest in **VLSI.**<br>💬 Ask me about **Digital Design and FPGA Design.**
+<br>
 
 - 📫 How to reach me **bhrithik742@gmail.com**
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hrithik762&label=Profile%20views&color=0e75b6&style=flat" alt="hrithik762" /> </p>
